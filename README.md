@@ -15,10 +15,9 @@ Demo credentials
 
 
 Staff User:
-
 - User: `wardan`
 - Password: `222`
-- 
+
 - User: `redone`
 - Password: `123`
 
