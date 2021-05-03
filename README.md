@@ -13,7 +13,12 @@ To get the Node server running locally:
 
 Demo credentials
 
+
 Staff User:
+
+- User: `wardan`
+- Password: `222`
+- 
 - User: `redone`
 - Password: `123`
 
@@ -24,8 +29,6 @@ Student User:
 - User: `emad`
 - Password: `111`
 
-- User: `wardan`
-- Password: `222`
 
 
 Video demo URL:
